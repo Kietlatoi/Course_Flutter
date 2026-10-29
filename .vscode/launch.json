@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Birdle (Chrome Debug)",
+      "type": "dart",
+      "request": "launch",
+      "cwd": "${workspaceFolder}/mini_app",
+      "program": "${workspaceFolder}/mini_app/lib/main.dart",
+      "deviceId": "chrome",
+      "flutterMode": "debug"
+    }
+  ]
+}
